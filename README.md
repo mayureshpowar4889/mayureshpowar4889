@@ -67,15 +67,7 @@
 </td></tr></table>
 
 ---
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayureshpowar4889&show_icons=true&theme=default" />
-
-</div>
-
+ 
 ---
 
 ## 🤝 Connect With Me  
